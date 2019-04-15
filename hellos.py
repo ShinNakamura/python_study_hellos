@@ -33,8 +33,7 @@ def hello_call():
     '''
     `Hello, world!`を印字する別の関数を呼び出す
     '''
-    if True:
-        hello_print()
+    hello_print()
 
 def hello_arr():
     '''
@@ -68,8 +67,8 @@ def hello_json():
     '''
     import json
     raw_data = '["Hello, world!"]'
-    data = json.loads(raw_data)
-    print(data[0])
+    arr = json.loads(raw_data)
+    print(arr[0])
 
 def main():
     '''
