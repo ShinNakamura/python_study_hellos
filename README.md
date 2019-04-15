@@ -6,3 +6,7 @@
 
 ちょっとしたゲームだと思って挑戦してみてください。
 
+## 回答例 ##
+
+[./hellos.py](https://github.com/ShinNakamura/python_study_hellos/blob/master/hellos.py)
+
