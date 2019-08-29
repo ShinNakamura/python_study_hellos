@@ -9,6 +9,7 @@
 #    $ python hellos.py
 
 # 以下はあくまで例です。
+# 例えばMozcで入力もできるね!
 
 def hello_print():
     '''
